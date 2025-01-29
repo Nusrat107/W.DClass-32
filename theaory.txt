@@ -1,0 +1,15 @@
+var x = 40;
+var x = 60;
+
+
+ES5 => var
+ES6 => let
+
+constant
+
+g = 9.8
+
+
+Rahim has 500tk. He went to market and purchased 5 eggs, 2 kitkat. Price of each eggs 15tk, price of each kitkat 40tk.
+Find the remaining money.
+
