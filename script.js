@@ -35,3 +35,5 @@ let remainingMoney = totalMoney-totalPrice;
 
 console.log(remainingMoney);
 
+
+
